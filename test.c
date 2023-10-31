@@ -1,2 +1,2 @@
 // altro pezzo
-diocane
+// bestemmia purificata
